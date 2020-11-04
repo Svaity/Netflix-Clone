@@ -1,6 +1,6 @@
 ## Netflix-clone
 <div align="center">
-   <img src="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tv/Netflix_Logo_Final.png"/>
+   <img src="https://i.dlpng.com/static/png/6387972_preview.png"/>
 </div>
 
 <br />
