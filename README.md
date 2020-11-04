@@ -1,4 +1,3 @@
-## Netflix-clone
 <div align="center">
    <img src="https://i.dlpng.com/static/png/6387972_preview.png"/>
 </div>
