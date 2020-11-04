@@ -6,7 +6,7 @@
 <br />
 
 <h2 align="center">
-    Netflix Clone :thought_balloon:
+    Netflix Clone 🎬
 </h2>
 
 ![](https://img.shields.io/github/languages/count/Svaity/Whatsapp-clone-MERN?color=%128C7E) ![](https://img.shields.io/github/languages/top/Svaity/Whatsapp-clone-MERN?color=%128C7E) ![](https://img.shields.io/github/repo-size/Svaity/Whatsapp-clone-MERN?color=%128C7E) ![](https://img.shields.io/github/last-commit/Svaity/Whatsapp-clone-MERN?color=%128C7E)
@@ -15,7 +15,7 @@
 
 
 
-### Netflix clone using the mern stack which looks and feels exactly like Netflix 
+### Netflix clone using the React and Firebase stack which looks and feels exactly like Netflix .This is a Front end focus built with TMDB API  
 
 
  <p align="center">
@@ -48,16 +48,16 @@ These are the technologies used:
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/Svaity/Whatsapp-clone-MERN.git
+$ git clone https://github.com/Svaity/Netflix-Clone.git
 
 # Get into the directory
-$ cd Whatsapp-clone-MERN-master
+$ cd Netflix-Clone-master
 
 #Install the dependancies
-$ yarn  install
+$ npm  install
 
 #Run the server
-$ yarn start
+$ npm start
 
 ```
 
